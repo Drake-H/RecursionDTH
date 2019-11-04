@@ -1,0 +1,9 @@
+
+8, 1430, 1 second
+8, 1430, 1 second
+8, 1430, 1 second
+8, 1430, 1 second
+20, 0, 1 second
+8, 1430, 1 second
+20, 0, 1 second
+20, 0, 1 second
